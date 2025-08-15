@@ -1,0 +1,263 @@
+[
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "691",
+        "Cliente": "141 - MONTEMORENSE 0001-20",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "11"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "684",
+        "Cliente": "914 - TRIANON 0001-39",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "17"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "718",
+        "Cliente": "173 - PPW 0001-25",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "689",
+        "Cliente": "737 - A JACTO 0001-00",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "722",
+        "Cliente": "1333 - MOGITRANS 0001-98",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "782",
+        "Cliente": "172 - ANACIREMA 0001-37",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "743",
+        "Cliente": "970 - GEXAN 0001-40",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "742",
+        "Cliente": "637 - GEXAN 0001-95",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Giovanna Moises Da Silva",
+        "Caso": "726",
+        "Cliente": "1305 - MANDALOG 0002-95",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Gabriele Signorelli Brasilense",
+        "Caso": "742",
+        "Cliente": "637 - GEXAN 0001-95",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Gabriele Signorelli Brasilense",
+        "Caso": "735",
+        "Cliente": "212 - JAB 0001-62",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "27"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Gabriele Signorelli Brasilense",
+        "Caso": "731",
+        "Cliente": "1203 - LEMAR 0001-10",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Gabriele Signorelli Brasilense",
+        "Caso": "738",
+        "Cliente": "1246 - GUERRA 0001-95",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Gabriele Signorelli Brasilense",
+        "Caso": "721",
+        "Cliente": "1209 - NAVAS 0001-25",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "15"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Gabriele Signorelli Brasilense",
+        "Caso": "722",
+        "Cliente": "1333 - MOGITRANS 0001-98",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "744",
+        "Cliente": "1061 - GATTO 0001-66",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "47"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "716",
+        "Cliente": "329 - SANCHES 0001-83",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "24"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "772",
+        "Cliente": "1382 - BRUNO CARDILLO 0001-30",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "701",
+        "Cliente": "488 - CAPIVARI 0004-20",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "781",
+        "Cliente": "151 - APOLO 0001-58",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "2"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "780",
+        "Cliente": "310 - APOLO 0004-09",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "2"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "716",
+        "Cliente": "329 - SANCHES 0001-83",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "755",
+        "Cliente": "1059 - E.N FOLGADO 0001-08",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "55"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Amanda Leite Alves Da Cruz",
+        "Caso": "708",
+        "Cliente": "960 - TERRA NOVA 0004-15",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "15"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Beatriz Gomes Salles",
+        "Caso": "764",
+        "Cliente": "929 - CGC 0001-09",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "9"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Beatriz Gomes Salles",
+        "Caso": "697",
+        "Cliente": "705 - CAPIVARI 0015-82",
+        "Estação": "Gerar arquivos da folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Beatriz Gomes Salles",
+        "Caso": "704",
+        "Cliente": "68 - CAPIVARI 0001-87",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Beatriz Gomes Salles",
+        "Caso": "711",
+        "Cliente": "549 - TERRA NOVA 0001-72",
+        "Estação": "Apurar folha para validação (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "344"
+    },
+    {
+        "Data": "7/16/25",
+        "Operador": "Beatriz Gomes Salles",
+        "Caso": "711",
+        "Cliente": "549 - TERRA NOVA 0001-72",
+        "Estação": "Validar folha (Adiantamento)",
+        "Esteira": "Apuração adiantamento de folha",
+        "Tempo trabalhado (min)": "1"
+    }
+]
